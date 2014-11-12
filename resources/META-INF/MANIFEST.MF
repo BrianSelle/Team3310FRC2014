@@ -1,0 +1,6 @@
+MIDlet-Name: Team3310FRC2013
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: RobotMain, , edu.rhhs.frc.RobotMain
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
